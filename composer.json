@@ -1,5 +1,5 @@
 {
-    "name": "j0k3r/php-imgur-api-client",
+    "name": "pobratym/php-imgur-api-client",
     "replace": {
         "adyg/php-imgur-api-client": "self.version"
     },
@@ -34,12 +34,13 @@
         }
     },
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=7.2",
         "ext-curl": "*",
-        "guzzlehttp/guzzle": "^6.0"
+        "guzzlehttp/guzzle": "^7"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.0",
-        "symfony/phpunit-bridge": "^5.0"
+        "symfony/phpunit-bridge": "^5.0",
+        "phpunit/phpunit": ">=8"
     }
 }
