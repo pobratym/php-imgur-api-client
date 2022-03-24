@@ -26,11 +26,11 @@ Add the library details to your composer.json
 "repositories" : [
     {
         "type": "vcs",
-        "url":  "git@github.com:pobratym/php-imgur-api-client.git"
+        "url":  "git@github.com:webxid/php-imgur-api-client.git"
     }
 ],
 "require": {
-    "pobratym/php-imgur-api-client": "^4.0.0"
+    "webxid/php-imgur-api-client": "^4.0.0"
 }
 ```
 
