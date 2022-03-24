@@ -1,5 +1,5 @@
 {
-    "name": "pobratym/php-imgur-api-client",
+    "name": "webxid/php-imgur-api-client",
     "replace": {
         "adyg/php-imgur-api-client": "self.version"
     },
